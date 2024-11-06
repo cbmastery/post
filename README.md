@@ -6,3 +6,10 @@ NextAuth [Github]
 Next Form with server side actions
 Tailwind and local font configuration
 Shadcn for component styling
+Typscript
+Sanity
+React 19
+Git
+Node
+npm
+API's
